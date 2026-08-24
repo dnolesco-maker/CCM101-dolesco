@@ -48,3 +48,45 @@ The KillerCoda Ubuntu 24.04.4 LTS environment uses a virtual disk named `vda` wi
 | Boot Filesystem | ext4 |
 | EFI Partition | /dev/vda15 |
 | EFI Filesystem | vfat |
+
+## 3. Networking Resources
+
+### Purpose
+
+Networking resources provide the connectivity needed for computers, applications, and services to communicate with each other and with users. In a cloud environment, networking enables communication between virtual machines, storage services, applications, and external networks.
+
+### Importance in Cloud Computing
+
+Networking is important in cloud computing because cloud resources need reliable connectivity to communicate and exchange data. Proper networking also allows users and applications to access cloud services while helping organize communication between different resources.
+
+### KillerCoda Linux Environment
+
+The KillerCoda Ubuntu 24.04.4 LTS environment has the hostname `ubuntu` and two IP addresses reported by the `hostname -I` command: `172.30.1.2` and `172.17.0.1`. These addresses show that the Linux environment has network connectivity within its virtualized cloud environment.
+
+| Networking Attribute | KillerCoda Finding |
+|---|---|
+| Hostname | ubuntu |
+| IP Address 1 | 172.30.1.2 |
+| IP Address 2 | 172.17.0.1 |
+
+## 4. Operating System
+
+### Purpose
+
+An operating system manages the computer's hardware and software resources and provides the environment needed to run applications and services. It also manages resources such as the CPU, memory, storage, and network interfaces.
+
+### Importance in Cloud Computing
+
+The operating system is important in cloud computing because it provides the software environment in which cloud workloads and applications operate. It allows users and administrators to manage computing resources, install software, configure services, and perform system administration tasks.
+
+### KillerCoda Linux Environment
+
+The KillerCoda environment is running **Ubuntu 24.04.4 LTS**, with the version codename **Noble Numbat**. The system uses the Linux kernel version **6.8.0-138-generic**. This operating system provides the environment for managing the virtual CPU, memory, storage, networking, and applications available in the cloud server.
+
+| Operating System Attribute | KillerCoda Finding |
+|---|---|
+| Operating System | Ubuntu |
+| Version | 24.04.4 LTS |
+| Codename | Noble Numbat |
+| Kernel Version | 6.8.0-138-generic |
+| Architecture | x86_64 |
