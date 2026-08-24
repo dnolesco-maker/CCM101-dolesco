@@ -6,13 +6,13 @@ This laboratory focuses on investigating cloud infrastructure components, examin
 
 ## Checkpoints
 
-- [ ] Checkpoint 1 – Expand Your Cloud Portfolio
-- [ ] Checkpoint 2 – Investigate the Cloud Server
-- [ ] Checkpoint 3 – Identify Cloud Infrastructure Components
-- [ ] Checkpoint 4 – Research Major Cloud Providers
-- [ ] Checkpoint 5 – Design a Simple Cloud Infrastructure
-- [ ] Checkpoint 6 – Technical Documentation
-- [ ] Checkpoint 7 – Mission Reflection
+- [x] Checkpoint 1 – Expand Your Cloud Portfolio
+- [x] Checkpoint 2 – Investigate the Cloud Server
+- [x] Checkpoint 3 – Identify Cloud Infrastructure Components
+- [x] Checkpoint 4 – Research Major Cloud Providers
+- [x] Checkpoint 5 – Design a Simple Cloud Infrastructure
+- [x] Checkpoint 6 – Technical Documentation
+- [x] Checkpoint 7 – Mission Reflection
 
 ## Objectives
 
