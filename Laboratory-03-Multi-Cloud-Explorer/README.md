@@ -39,7 +39,7 @@ If this Linux server were migrated to the cloud, the following services could be
 
 The following screenshots show the Linux system information collected from the KillerCoda terminal:
 
-![KillerCoda Operating System](screenshots/killercoda-os-cpu.png)
+![KillerCoda Operating System](screenshots/killercoda-os.png)
 
 ![KillerCoda CPU](screenshots/killercoda-cpu.png)
 
