@@ -6,3 +6,4 @@ Welcome to my official Cloud Computing Portfolio for CCM101. This is repository 
 
 - [Laboratory 01: Welcome to the Cloud](./Laboratory-01-Welcome-to-the-Cloud/)
 - [Laboratory 02: Build the Cloud Infrastructure Blueprint](./Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint)
+- [Laboratory 03: Multi-Cloud Explorer](./Laboratory-03-Multi-Cloud-Explorer/)
