@@ -20,12 +20,15 @@ This laboratory focuses on understanding the difference between traditional Virt
 ```bash
 docker --version
 docker info
+```
 
 ### Checkpoint 4
+
 ```bash
 docker pull nginx
 docker run -d -p 8080:80 --name nginx-server nginx
 curl http://localhost:8080
+```
 
 ### Checkpoint 5
 
@@ -34,6 +37,7 @@ docker ps
 docker stop nginx-server
 docker ps -a
 docker rm nginx-server
+```
 
 ## Skills Learned
 
