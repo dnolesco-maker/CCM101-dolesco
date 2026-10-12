@@ -1,10 +1,11 @@
-Student Name: Danilo Jr Domondon Olesco
-Course: CCM101 - Cloud Computing 
+Student Name: Danilo Jr Domondon Olesco  
+Course: CCM101 - Cloud Computing  
 Institution: University of Eastern Pangasinan
 
-Welcome to my official Cloud Computing Portfolio for CCM101. This is repository contains all completed laboratory activities, technical documentations, system logs, scripts, and mission reflections throughout the semester.
+Welcome to my official Cloud Computing Portfolio for CCM101. This repository contains all completed laboratory activities, technical documentation, system logs, scripts, and mission reflections throughout the semester.
 
 - [Laboratory 01: Welcome to the Cloud](./Laboratory-01-Welcome-to-the-Cloud/)
-- [Laboratory 02: Build the Cloud Infrastructure Blueprint](./Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint)
+- [Laboratory 02: Build the Cloud Infrastructure Blueprint](./Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint/)
 - [Laboratory 03: Multi-Cloud Explorer](./Laboratory-03-Multi-Cloud-Explorer/)
 - [Laboratory 04: Cloud Native Engineer](./Laboratory-04-Cloud-Native-Engineer/)
+- [Laboratory 05: The Cloud Data Engineer](./Laboratory-05-Cloud-Data-Engineer/)
