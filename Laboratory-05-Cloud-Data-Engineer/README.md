@@ -4,6 +4,8 @@
 
 This laboratory focuses on understanding cloud storage types and deploying an S3-compatible object storage server using MinIO and Docker.
 
+For this deployment, I used the `pgsty/minio` Docker image as an alternative because the `minio/minio` image specified in the laboratory instructions could not be downloaded in my environment.
+
 ## Objectives
 
 - Differentiate Block Storage, File Storage, and Object Storage.
@@ -17,7 +19,7 @@ This laboratory focuses on understanding cloud storage types and deploying an S3
 - GitHub
 - KillerCoda Ubuntu Playground
 - Docker
-- MinIO
+- MinIO / Silo Console
 - Web browser
 
 ## Skills Learned
@@ -26,4 +28,5 @@ This laboratory focuses on understanding cloud storage types and deploying an S3
 - Docker container deployment
 - Cloud object storage management
 - Bucket creation and file uploading
+- Accessing a web-based storage console through port forwarding
 - Markdown documentation
