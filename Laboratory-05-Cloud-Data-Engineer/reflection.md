@@ -1,4 +1,4 @@
-Mission Reflection
+# Mission Reflection
 
 In this lab you will have explored some important differences between various types of cloud storage, block, file, and object storage. For example, block and file storage divide up the data that they store into different sized components (blocks and files/folders respectively), while object storage takes a very different approach by storing everything as “objects” within “buckets”.
 
