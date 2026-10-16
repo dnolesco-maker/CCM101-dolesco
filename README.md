@@ -9,3 +9,4 @@ Welcome to my official Cloud Computing Portfolio for CCM101. This repository con
 - [Laboratory 03: Multi-Cloud Explorer](./Laboratory-03-Multi-Cloud-Explorer/)
 - [Laboratory 04: Cloud Native Engineer](./Laboratory-04-Cloud-Native-Engineer/)
 - [Laboratory 05: The Cloud Data Engineer](./Laboratory-05-Cloud-Data-Engineer/)
+- [Laboratory 06: The Cloud Deployment Engineer](./Laboratory-06-Cloud-Deployment-Engineer/)
