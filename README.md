@@ -12,3 +12,4 @@ Welcome to my official Cloud Computing Portfolio for CCM101. This repository con
 - [Laboratory 06: The Cloud Deployment Engineer](./Laboratory-06-Cloud-Deployment-Engineer/)
 - [Laboratory 07: The Cloud Operations Engineer](./Laboratory-07-Cloud-Operations-Engineer/)
 - [Laboratory 08: The Cloud Security Engineer](./Laboratory-08-Cloud-Security-Engineer/)
+- [Laboratory 09: The Cloud Automation Engineer](./Laboratory-09-Cloud-Automation-Engineer/)
