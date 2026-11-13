@@ -10,11 +10,13 @@
 
 ## 2. Directory Structure
 ```text
-CCM101-rvidal/
+CCM101-dolesco/
 └── Laboratory-10-Enterprise-Cloud-Architec/
-    ├── docker-compose.yml
     ├── .env
+    ├── README.md
+    ├── architecture-diagram.png
     ├── automation-script.sh
     ├── backup-wordpress.sh
-    ├── operational-manual.md
-    └── README.md
+    ├── docker-compose.yml
+    ├── final-reflection.md
+    └── operational-manual.md
