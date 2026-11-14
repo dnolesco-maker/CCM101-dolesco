@@ -63,9 +63,13 @@ The architecture establishes an isolated internal network space (`enterprise_net
 ## 📁 Repository Directory Structure
 
 ```text
-CCM101-rvidal/
-├── Laboratory-10-Enterprise-Cloud-Architect/
-│   ├── docker-compose.yml       # Multi-service orchestration configuration
-│   ├── .env                     # Declarative secrets & database environment variables
-│   └── backup/                  # Programmatic system backup routines & cron scripts
-└── README.md                    # Detailed infrastructure documentation & manual
+CCM101-dolesco/
+└── Laboratory-10-Enterprise-Cloud-Architect/
+    ├── .env                        # Declarative secrets & database environment variables
+    ├── README.md                   # Detailed infrastructure documentation & overview
+    ├── architecture-diagram.png    # Multi-tier cloud infrastructure diagram
+    ├── automation-script.sh        # Automated deployment & system setup script
+    ├── backup-wordpress.sh         # Programmatic WordPress & database backup routine
+    ├── docker-compose.yml          # Multi-service orchestration configuration
+    ├── final-reflection.md         # Course progression & enterprise architect reflection
+    └── operational-manual.md       # System administration & troubleshooting runbook
